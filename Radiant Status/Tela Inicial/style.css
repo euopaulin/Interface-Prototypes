@@ -1,0 +1,151 @@
+.login-screen,
+.login-screen * {
+  box-sizing: border-box;
+}
+.login-screen {
+  background: #842424;
+  height: 932px;
+  position: relative;
+  overflow: hidden;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.profile-match-history-1 {
+  opacity: 0.5;
+  width: 1022.22px;
+  height: 421.69px;
+  position: absolute;
+  left: -76.89px;
+  top: -52.79px;
+  transform-origin: 0 0;
+  transform: rotate(4.869deg) scale(1, 1);
+  filter: blur(2px);
+  object-fit: cover;
+}
+.rectangle-1 {
+  border-radius: 0px;
+  width: 318px;
+  height: 53.43px;
+  position: absolute;
+  left: 56px;
+  top: 460.73px;
+  overflow: visible;
+}
+.rectangle-2 {
+  border-radius: 0px;
+  width: 318px;
+  height: 53.43px;
+  position: absolute;
+  left: 56px;
+  top: 532.66px;
+  overflow: visible;
+}
+.digite-sua-senha {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 82px);
+  top: 550.13px;
+  width: 164px;
+  height: 18.49px;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Valorant-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 49px);
+  top: 407.31px;
+  width: 98px;
+  height: 33.91px;
+}
+.lo-gar-com-contas {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Valorant-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 97px);
+  top: 605.61px;
+  width: 194px;
+  height: 19.52px;
+}
+.digite-seu-email {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 82px);
+  top: 477.17px;
+  width: 164px;
+  height: 18.49px;
+}
+.images-1 {
+  width: 1px;
+  height: 1.03px;
+  position: absolute;
+  left: 123px;
+  top: 604.58px;
+  object-fit: cover;
+}
+.oig-1-2-removebg-preview-2 {
+  width: 200px;
+  height: 207.05px;
+  position: absolute;
+  left: calc(50% - 100px);
+  top: 39px;
+  object-fit: cover;
+}
+.acompanhe-as-estat-sticas-do-seu-jogo-favorito {
+  color: #ffffff;
+  text-align: center;
+  font-family: "LuckiestGuy-Regular", sans-serif;
+  font-size: 27px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 146px);
+  top: 280.93px;
+  width: 292px;
+  height: 83.23px;
+}
+.n-o-tem-conta-crei-uma {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Valorant-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 124px);
+  top: 729px;
+  width: 248px;
+}
+.vector {
+  width: 10.23%;
+  height: 3.65%;
+  position: absolute;
+  right: 54.19%;
+  left: 35.58%;
+  bottom: 27.79%;
+  top: 68.56%;
+  overflow: visible;
+}
+.vector2 {
+  width: 10.23%;
+  height: 3.65%;
+  position: absolute;
+  right: 39.77%;
+  left: 50%;
+  bottom: 27.79%;
+  top: 68.56%;
+  overflow: visible;
+}

@@ -1,0 +1,175 @@
+.cadastro,
+.cadastro * {
+  box-sizing: border-box;
+}
+.cadastro {
+  background: #842424;
+  height: 932px;
+  position: relative;
+  overflow: hidden;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.group-1 {
+  width: 1053.89px;
+  height: 769.31px;
+  position: static;
+}
+.profile-match-history-1 {
+  opacity: 0.5;
+  width: 1022.22px;
+  height: 421.69px;
+  position: absolute;
+  left: -76.89px;
+  top: -52.79px;
+  transform-origin: 0 0;
+  transform: rotate(4.869deg) scale(1, 1);
+  filter: blur(2px);
+  object-fit: cover;
+}
+.rectangle-1 {
+  border-radius: 0px;
+  width: 318px;
+  height: 53.43px;
+  position: absolute;
+  left: 56px;
+  top: 460.73px;
+  overflow: visible;
+}
+.rectangle-3 {
+  border-radius: 0px;
+  width: 318px;
+  height: 53.43px;
+  position: absolute;
+  left: 56px;
+  top: 389px;
+  overflow: visible;
+}
+.digite-seu-nome-de-usuario {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 128px);
+  top: 407px;
+  width: 255px;
+  height: 18px;
+}
+.rectangle-2 {
+  border-radius: 0px;
+  width: 318px;
+  height: 53.43px;
+  position: absolute;
+  left: 56px;
+  top: 532.66px;
+  overflow: visible;
+}
+.digite-sua-senha {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 82px);
+  top: 550.13px;
+  width: 164px;
+  height: 18.49px;
+}
+.cadastre-se {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Valorant-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 111px);
+  top: 320px;
+  width: 222px;
+  height: 34px;
+}
+.criar-com-contas {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Valorant-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 97px);
+  top: 697px;
+  width: 194px;
+  height: 19.52px;
+}
+.digite-seu-email {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 82px);
+  top: 477.17px;
+  width: 164px;
+  height: 18.49px;
+}
+.images-1 {
+  width: 1px;
+  height: 1.03px;
+  position: absolute;
+  left: 123px;
+  top: 604.58px;
+}
+.inscreva-se-nas-nossas-newsletters-para-receber-conte-dos-exclusivos-do-radiant-ao-assinar-voc-concorda-com-nossa-pol-tica-de-privacidade {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AveriaLibre-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: 602px;
+  width: 318px;
+  height: 72px;
+}
+.oig-1-2-removebg-preview-2 {
+  width: 200px;
+  height: 207.05px;
+  position: absolute;
+  left: calc(50% - 100px);
+  top: 37px;
+  object-fit: cover;
+}
+.vector {
+  width: 10.23%;
+  height: 3.65%;
+  position: absolute;
+  right: 37.91%;
+  left: 51.86%;
+  bottom: 17.81%;
+  top: 78.54%;
+  overflow: visible;
+}
+.vector2 {
+  width: 10.23%;
+  height: 3.65%;
+  position: absolute;
+  right: 52.56%;
+  left: 37.21%;
+  bottom: 17.81%;
+  top: 78.54%;
+  overflow: visible;
+}
+.vector3 {
+  width: 4.19%;
+  height: 1.93%;
+  position: absolute;
+  right: 62.79%;
+  left: 33.02%;
+  bottom: 33.48%;
+  top: 64.59%;
+  overflow: visible;
+}
