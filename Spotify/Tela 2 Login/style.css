@@ -1,0 +1,110 @@
+.login-screen,
+.login-screen * {
+  box-sizing: border-box;
+}
+.login-screen {
+  background: #121212;
+  height: 932px;
+  position: relative;
+  overflow: hidden;
+}
+.bg-1 {
+  width: 723.56px;
+  height: 387.21px;
+  position: absolute;
+  left: -212px;
+  top: 10.93px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(-3.414deg) scale(1, 1);
+  object-fit: cover;
+}
+.logo-1 {
+  width: 189px;
+  height: 189px;
+  position: absolute;
+  left: 121px;
+  top: 152px;
+  object-fit: cover;
+}
+.input-email-auto-layout {
+  background: #727272;
+  border-radius: 8px;
+  padding: 10px 10px 0px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 281px;
+  height: 44px;
+  position: absolute;
+  left: 75px;
+  top: 430px;
+}
+.digite-seu-email {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: relative;
+}
+.input-senha-auto-layout {
+  background: #727272;
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 281px;
+  height: 44px;
+  position: absolute;
+  left: 74px;
+  top: 497px;
+}
+.digite-sua-senhal {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: relative;
+}
+.input-enviar-auto-layout {
+  background: #1ed760;
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 281px;
+  height: 44px;
+  position: absolute;
+  left: 75px;
+  top: 564px;
+}
+.enviar {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: relative;
+}
+.cadastre-se {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 91px);
+  top: 661px;
+  width: 183px;
+  height: 39px;
+}

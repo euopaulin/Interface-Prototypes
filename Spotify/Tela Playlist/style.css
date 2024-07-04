@@ -1,0 +1,719 @@
+.playlist,
+.playlist * {
+  box-sizing: border-box;
+}
+.playlist {
+  height: 2408px;
+  position: relative;
+}
+.playlist2 {
+  background: #121212;
+  width: 430px;
+  height: 2408px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow-y: auto;
+}
+.rectangle-1 {
+  background: #efde41;
+  border-radius: 4px;
+  width: 163px;
+  height: 88px;
+  position: absolute;
+  left: 24px;
+  top: 49px;
+}
+.rectangle-5 {
+  background: #efde41;
+  border-radius: 4px;
+  width: 163px;
+  height: 88px;
+  position: absolute;
+  left: 24px;
+  top: 279px;
+}
+.rectangle-3 {
+  background: #efde41;
+  border-radius: 4px;
+  width: 163px;
+  height: 88px;
+  position: absolute;
+  left: 24px;
+  top: 164px;
+}
+.rectangle-6 {
+  background: #efde41;
+  border-radius: 4px;
+  width: 163px;
+  height: 88px;
+  position: absolute;
+  left: 24px;
+  top: 394px;
+}
+.rectangle-2 {
+  background: #8cfa70;
+  border-radius: 4px;
+  width: 163px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 49px;
+}
+.rectangle-7 {
+  background: #8cfa70;
+  border-radius: 4px;
+  width: 163px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 279px;
+}
+.rectangle-4 {
+  background: #8cfa70;
+  border-radius: 4px;
+  width: 163px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 164px;
+}
+.rectangle-8 {
+  background: #8cfa70;
+  border-radius: 4px;
+  width: 163px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 394px;
+}
+.playlist-1 {
+  background: #cc41ef;
+  border-radius: 4px;
+  width: 81px;
+  height: 88px;
+  position: absolute;
+  left: 24px;
+  top: 49px;
+}
+.playlist-12 {
+  background: #cc41ef;
+  border-radius: 4px;
+  width: 81px;
+  height: 88px;
+  position: absolute;
+  left: 24px;
+  top: 279px;
+}
+.playlist-13 {
+  background: #cc41ef;
+  border-radius: 4px;
+  width: 81px;
+  height: 88px;
+  position: absolute;
+  left: 24px;
+  top: 164px;
+}
+.playlist-14 {
+  background: #cc41ef;
+  border-radius: 4px;
+  width: 81px;
+  height: 88px;
+  position: absolute;
+  left: 24px;
+  top: 394px;
+}
+.playlist-15 {
+  background: #cc41ef;
+  border-radius: 4px;
+  width: 81px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 49px;
+}
+.playlist-16 {
+  background: #cc41ef;
+  border-radius: 4px;
+  width: 81px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 279px;
+}
+.playlist-17 {
+  background: #cc41ef;
+  border-radius: 4px;
+  width: 81px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 164px;
+}
+.playlist-18 {
+  background: #cc41ef;
+  border-radius: 4px;
+  width: 81px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 394px;
+}
+.playlist-1-a {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 24px;
+  top: 49px;
+  object-fit: cover;
+}
+.playlist-1-a2 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 24px;
+  top: 279px;
+  object-fit: cover;
+}
+.playlist-1-a3 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 24px;
+  top: 164px;
+  object-fit: cover;
+}
+.playlist-1-a4 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 24px;
+  top: 394px;
+  object-fit: cover;
+}
+.playlist-3-1 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 24px;
+  top: 164px;
+  object-fit: cover;
+}
+.playlist-3-2 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 24px;
+  top: 394px;
+  object-fit: cover;
+}
+.playlist-1-a5 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 49px;
+  object-fit: cover;
+}
+.playlist-1-a6 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 279px;
+  object-fit: cover;
+}
+.playlist-1-a7 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 164px;
+  object-fit: cover;
+}
+.playlist-1-a8 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 394px;
+  object-fit: cover;
+}
+.top-brasil {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 119px;
+  top: 81px;
+  width: 58px;
+  height: 15px;
+}
+.top-brasil2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 119px;
+  top: 311px;
+  width: 58px;
+  height: 15px;
+}
+.hip-hop {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 119px;
+  top: 193px;
+  width: 58px;
+  height: 15px;
+}
+.hip-hop2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 119px;
+  top: 423px;
+  width: 58px;
+  height: 15px;
+}
+.sertanojo {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 339px;
+  top: 81px;
+  width: 58px;
+  height: 13px;
+}
+.trap {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 353px;
+  top: 311px;
+  width: 29px;
+  height: 13px;
+}
+.mod-o {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 347px;
+  top: 198px;
+  width: 41px;
+  height: 15px;
+}
+.mod-o2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 347px;
+  top: 428px;
+  width: 41px;
+  height: 15px;
+}
+.playlist-8-1 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 49px;
+  object-fit: cover;
+}
+.playlist-8-3 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 279px;
+  object-fit: cover;
+}
+.playlist-8-2 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 164px;
+  object-fit: cover;
+}
+.playlist-8-4 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 394px;
+  object-fit: cover;
+}
+.playlist-1-1 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 164px;
+  object-fit: cover;
+}
+.playlist-1-2 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 394px;
+  object-fit: cover;
+}
+.playlist-4-1 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 24px;
+  top: 279px;
+  object-fit: cover;
+}
+.ouvidas-recentemente {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 67px);
+  top: 521px;
+  width: 133px;
+  height: 18px;
+}
+.frame-1 {
+  width: 385px;
+  height: 167px;
+  position: absolute;
+  left: 22px;
+  top: 574px;
+  overflow: hidden;
+}
+.rectangle-9 {
+  background: #000000;
+  border-radius: 4px;
+  width: 166px;
+  height: 166px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+}
+.rectangle-11 {
+  background: #000000;
+  border-radius: 4px;
+  width: 166px;
+  height: 166px;
+  position: absolute;
+  left: 219px;
+  top: 0px;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  border-radius: 4px;
+  width: 166px;
+  height: 112px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+}
+.rectangle-12 {
+  background: #d9d9d9;
+  border-radius: 4px;
+  width: 166px;
+  height: 112px;
+  position: absolute;
+  left: 219px;
+  top: 0px;
+}
+.internacional {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 46px;
+  top: 127px;
+}
+.internacional2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 265px;
+  top: 126px;
+}
+.frame-2 {
+  width: 385px;
+  height: 167px;
+  position: absolute;
+  left: 22px;
+  top: 574px;
+  overflow: hidden;
+}
+.podcast-1-1 {
+  border-radius: 4px;
+  width: 82px;
+  height: 88px;
+  position: absolute;
+  left: 244px;
+  top: 279px;
+  object-fit: cover;
+}
+.grupo-2 {
+  width: 385px;
+  height: 358px;
+  position: absolute;
+  left: 22px;
+  top: 573px;
+  overflow: hidden;
+}
+.rectangle-13 {
+  background: #000000;
+  border-radius: 4px;
+  width: 166px;
+  height: 166px;
+  position: absolute;
+  left: 0px;
+  top: 192px;
+}
+.rectangle-17 {
+  background: #000000;
+  border-radius: 4px;
+  width: 166px;
+  height: 166px;
+  position: absolute;
+  left: 0px;
+  top: 192px;
+}
+.rectangle-14 {
+  background: #000000;
+  border-radius: 4px;
+  width: 166px;
+  height: 166px;
+  position: absolute;
+  left: 219px;
+  top: 191px;
+}
+.rectangle-18 {
+  background: #000000;
+  border-radius: 4px;
+  width: 166px;
+  height: 166px;
+  position: absolute;
+  left: 219px;
+  top: 191px;
+}
+.rectangle-15 {
+  background: #d9d9d9;
+  border-radius: 4px;
+  width: 166px;
+  height: 112px;
+  position: absolute;
+  left: 0px;
+  top: 192px;
+}
+.rectangle-19 {
+  background: #d9d9d9;
+  border-radius: 4px;
+  width: 166px;
+  height: 112px;
+  position: absolute;
+  left: 0px;
+  top: 192px;
+}
+.rectangle-16 {
+  background: #d9d9d9;
+  border-radius: 4px;
+  width: 166px;
+  height: 112px;
+  position: absolute;
+  left: 219px;
+  top: 191px;
+}
+.rectangle-20 {
+  background: #d9d9d9;
+  border-radius: 4px;
+  width: 166px;
+  height: 112px;
+  position: absolute;
+  left: 219px;
+  top: 191px;
+}
+.internacional3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 46px;
+  top: 318px;
+}
+.internacional4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 265px;
+  top: 317px;
+}
+.podcast-4-1 {
+  border-radius: 4px;
+  width: 166px;
+  height: 113px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  object-fit: cover;
+}
+.podcast-4-5 {
+  border-radius: 4px;
+  width: 166px;
+  height: 113px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  object-fit: cover;
+}
+.podcast-4-3 {
+  border-radius: 4px;
+  width: 166px;
+  height: 113px;
+  position: absolute;
+  left: 0px;
+  top: 191px;
+  object-fit: cover;
+}
+.podcast-4-6 {
+  border-radius: 4px;
+  width: 166px;
+  height: 113px;
+  position: absolute;
+  left: 0px;
+  top: 191px;
+  object-fit: cover;
+}
+.podcast-4-2 {
+  border-radius: 4px;
+  width: 166px;
+  height: 113px;
+  position: absolute;
+  left: 219px;
+  top: 0px;
+  object-fit: cover;
+}
+.podcast-4-7 {
+  border-radius: 4px;
+  width: 166px;
+  height: 113px;
+  position: absolute;
+  left: 219px;
+  top: 0px;
+  object-fit: cover;
+}
+.podcast-4-4 {
+  border-radius: 4px;
+  width: 166px;
+  height: 113px;
+  position: absolute;
+  left: 219px;
+  top: 190px;
+  object-fit: cover;
+}
+.podcast-4-8 {
+  border-radius: 4px;
+  width: 166px;
+  height: 113px;
+  position: absolute;
+  left: 219px;
+  top: 190px;
+  object-fit: cover;
+}
+.podcast-2-1 {
+  border-radius: 4px;
+  width: 166px;
+  height: 114px;
+  position: absolute;
+  left: 219px;
+  top: 0px;
+  object-fit: cover;
+}
+.podcast-2-3 {
+  border-radius: 4px;
+  width: 166px;
+  height: 114px;
+  position: absolute;
+  left: 219px;
+  top: 0px;
+  object-fit: cover;
+}
+.podcast-2-2 {
+  border-radius: 4px;
+  width: 166px;
+  height: 114px;
+  position: absolute;
+  left: 219px;
+  top: 190px;
+  object-fit: cover;
+}
+.podcast-2-4 {
+  border-radius: 4px;
+  width: 166px;
+  height: 114px;
+  position: absolute;
+  left: 219px;
+  top: 190px;
+  object-fit: cover;
+}
+.frame-22 {
+  width: 385px;
+  height: 167px;
+  position: absolute;
+  left: 2px;
+  top: 398px;
+  overflow: hidden;
+}

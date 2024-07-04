@@ -1,0 +1,18 @@
+.splash-screen,
+.splash-screen * {
+  box-sizing: border-box;
+}
+.splash-screen {
+  background: #121212;
+  height: 932px;
+  position: relative;
+  overflow: hidden;
+}
+.logo-1 {
+  width: 189px;
+  height: 189px;
+  position: absolute;
+  left: 121px;
+  top: 152px;
+  object-fit: cover;
+}
