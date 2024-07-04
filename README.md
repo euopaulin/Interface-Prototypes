@@ -1,2 +1,2 @@
 # Interface-Prototypes
-Repisitorios onde colocarei os prototipos de interface que eu fiz.
+Neste repositório ficarão salvos os protótipos de interfaces que fiz com o auxílio do Figma.
