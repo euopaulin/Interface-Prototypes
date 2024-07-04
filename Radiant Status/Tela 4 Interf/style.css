@@ -1,0 +1,349 @@
+.tela-do-app,
+.tela-do-app * {
+  box-sizing: border-box;
+}
+.tela-do-app {
+  background: #842424;
+  height: 2725px;
+  position: relative;
+  overflow-y: auto;
+}
+.baixados-1 {
+  opacity: 0.7;
+  width: 1366px;
+  height: 921px;
+  position: absolute;
+  left: -468px;
+  top: 0px;
+  filter: blur(2px);
+  object-fit: cover;
+}
+.historico-de-partidas {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-10 {
+  border-radius: 0px;
+  width: 177px;
+  height: 35px;
+  position: absolute;
+  left: 110px;
+  top: 777px;
+  overflow: visible;
+}
+.rectangle-4 {
+  border-radius: 3px;
+  width: 365px;
+  height: 217px;
+  position: absolute;
+  left: 34px;
+  top: 213px;
+  object-fit: cover;
+}
+.rectangle-5 {
+  border-radius: 3px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 365px;
+  height: 267px;
+  position: absolute;
+  left: 34px;
+  top: 562px;
+  object-fit: cover;
+}
+.rectangle-7 {
+  background: rgba(79, 181, 17, 0.8);
+  border-radius: 3px;
+  width: 365px;
+  height: 50px;
+  position: absolute;
+  left: 34px;
+  top: 512px;
+}
+.vitoria {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AveriaLibre-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 58px);
+  top: 520px;
+  width: 117px;
+  height: 34px;
+}
+.rectangle-6 {
+  border-radius: 0px;
+  width: 365px;
+  height: 50px;
+  position: absolute;
+  right: 31px;
+  top: 163px;
+  overflow: visible;
+}
+.derrota {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AveriaLibre-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 66px);
+  top: 171px;
+  width: 134px;
+  height: 34px;
+}
+.historico-de-partidas2 {
+  background: linear-gradient(
+    90deg,
+    rgba(22, 36, 57, 1) 0%,
+    rgba(0, 0, 0, 1) 50%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "LuckiestGuy-Regular", sans-serif;
+  font-size: 33px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 173px);
+  top: 77px;
+  width: 355px;
+  height: 18px;
+  -webkit-text-stroke: 2px #ffffff;
+}
+.rectangle-9 {
+  border-radius: 0px;
+  width: 365px;
+  height: 35px;
+  position: absolute;
+  left: 34px;
+  top: 430px;
+  overflow: visible;
+}
+.rectangle-11 {
+  border-radius: 0px;
+  width: 365px;
+  height: 35px;
+  position: absolute;
+  left: 34px;
+  top: 829px;
+  overflow: visible;
+}
+._14-03-2024 {
+  color: #000000;
+  text-align: left;
+  font-family: "AveriaLibre-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 65px);
+  top: 432px;
+  width: 132px;
+  height: 15px;
+}
+.thumb-1920-1359472-1 {
+  opacity: 0.7;
+  width: 1875.74px;
+  height: 997px;
+  position: absolute;
+  left: -744px;
+  top: 921px;
+  filter: blur(2px);
+  object-fit: cover;
+}
+._14-03-2025 {
+  color: #000000;
+  text-align: left;
+  font-family: "AveriaLibre-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 69px);
+  top: 832px;
+  width: 140px;
+  height: 15px;
+}
+.mais-jogados {
+  position: absolute;
+  inset: 0;
+}
+.radiants-mais-jogados {
+  color: #ffffff;
+  text-align: left;
+  font-family: "LuckiestGuy-Regular", sans-serif;
+  font-size: 33px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 188px);
+  top: 995px;
+  width: 377px;
+  height: 20px;
+  -webkit-text-stroke: 2px #000000;
+}
+.ebe-3-ed-3249-a-441020-d-1268-abaae-5-a-709-1 {
+  opacity: 0.7;
+  width: 430px;
+  height: 807px;
+  position: absolute;
+  left: 0px;
+  top: 1918px;
+  filter: blur(2px);
+  object-fit: cover;
+}
+.rectangle-13 {
+  border-radius: 3px;
+  width: 397px;
+  height: 348px;
+  position: absolute;
+  left: 16px;
+  top: 1136px;
+  object-fit: cover;
+}
+.rectangle-14 {
+  background: rgba(222, 40, 40, 0.8);
+  border-radius: 3px;
+  width: 397px;
+  height: 50px;
+  position: absolute;
+  left: 17px;
+  top: 1086px;
+}
+.group-6 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-15 {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 3px;
+  width: 397px;
+  height: 50px;
+  position: absolute;
+  left: 16px;
+  top: 1484px;
+}
+.grande-papai {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AveriaLibre-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 112px;
+  top: 1093px;
+}
+._123-h-jogadas {
+  color: #000000;
+  text-align: left;
+  font-family: "AveriaLibre-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 113px;
+  top: 1491px;
+}
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-17 {
+  background: rgba(22, 36, 57, 0.8);
+  border-radius: 3px;
+  width: 397px;
+  height: 50px;
+  position: absolute;
+  left: 17px;
+  top: 1590px;
+}
+.comic-sans {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AveriaLibre-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 88px);
+  top: 1597px;
+}
+.rectangle-18 {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 3px;
+  width: 397px;
+  height: 50px;
+  position: absolute;
+  left: 16px;
+  top: 1988px;
+}
+._66-h-jogadas {
+  color: #000000;
+  text-align: left;
+  font-family: "AveriaLibre-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 96px);
+  top: 1995px;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-20 {
+  background: rgba(222, 40, 40, 0.7);
+  border-radius: 3px;
+  width: 397px;
+  height: 50px;
+  position: absolute;
+  left: 16px;
+  top: 2136px;
+}
+.arthur-morgan {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AveriaLibre-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 126px);
+  top: 2143px;
+}
+.rectangle-21 {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 3px;
+  width: 397px;
+  height: 50px;
+  position: absolute;
+  left: 15px;
+  top: 2534px;
+}
+._55-h-jogadas {
+  color: #000000;
+  text-align: left;
+  font-family: "AveriaLibre-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 97px);
+  top: 2541px;
+}
+.rectangle-22 {
+  border-radius: 3px;
+  width: 397px;
+  height: 348px;
+  position: absolute;
+  left: 17px;
+  top: 1640px;
+  object-fit: cover;
+}
+.rectangle-23 {
+  border-radius: 3px;
+  width: 395px;
+  height: 348px;
+  position: absolute;
+  left: 17px;
+  top: 2186px;
+  object-fit: cover;
+}

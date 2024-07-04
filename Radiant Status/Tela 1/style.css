@@ -1,0 +1,43 @@
+.tela-inicial,
+.tela-inicial * {
+  box-sizing: border-box;
+}
+.tela-inicial {
+  background: #162439;
+  height: 932px;
+  position: relative;
+  overflow: hidden;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.radiant {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Valorant-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 116px);
+  top: 582px;
+  width: 233px;
+}
+.status {
+  color: #ffffff;
+  text-align: left;
+  font-family: "LuckiestGuy-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 167px;
+  top: 637px;
+}
+.oig-1-2-removebg-preview-1 {
+  width: 300px;
+  height: 293.02px;
+  position: absolute;
+  left: calc(50% - 150px);
+  top: 265px;
+  object-fit: cover;
+}
