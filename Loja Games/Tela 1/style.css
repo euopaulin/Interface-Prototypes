@@ -1,0 +1,86 @@
+.tela-1,
+.tela-1 * {
+  box-sizing: border-box;
+}
+.tela-1 {
+  height: 1024px;
+  position: relative;
+}
+.tela-12 {
+  background: #333333;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.ea-play-catalogo-1 {
+  border-width: 20px;
+  border-style: solid;
+  border-image: linear-gradient(
+    180deg,
+    rgba(67, 101, 95, 1) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-image-slice: 1;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  filter: blur(2px);
+  object-fit: cover;
+}
+.polygon-1 {
+  width: 462px;
+  height: 233px;
+  position: absolute;
+  left: 950px;
+  top: 759px;
+  transform: translate(-431.05px, -174.75px);
+  overflow: visible;
+}
+.umbrella {
+  color: #ffffff;
+  text-align: left;
+  font-family: "ArcadeRounded-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 138px);
+  top: 598px;
+  width: 276px;
+  height: 44px;
+}
+.store {
+  color: #ffffff;
+  text-align: left;
+  font-family: "ArcadeRounded-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 74px);
+  top: 647px;
+}
+.rectangle-1 {
+  background: #43655f;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 3px;
+  width: 430px;
+  height: 424px;
+  position: absolute;
+  left: 505px;
+  top: 152px;
+}
+.oig-4-1-removebg-preview-1 {
+  width: 403px;
+  height: 435px;
+  position: absolute;
+  left: 519px;
+  top: 141px;
+  object-fit: cover;
+}

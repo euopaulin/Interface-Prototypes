@@ -1,0 +1,289 @@
+.tela-4,
+.tela-4 * {
+  box-sizing: border-box;
+}
+.tela-4 {
+  height: 2280px;
+  position: relative;
+}
+.tela-3 {
+  width: 1440px;
+  height: 2280px;
+  position: static;
+}
+.tela-2 {
+  background: #43655f;
+  width: 1440px;
+  height: 2280px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+.umbrella {
+  color: #ffffff;
+  text-align: left;
+  font-family: "ArcadeRounded-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 582.99px);
+  top: 50px;
+  width: 136.43px;
+  height: 9.33px;
+  transform-origin: 0 0;
+  transform: rotate(0.057deg) scale(1, 1);
+}
+.store {
+  color: #ffffff;
+  text-align: left;
+  font-family: "ArcadeRounded-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 548px);
+  top: 72px;
+  width: 65px;
+  height: 7px;
+}
+.rectangle-6 {
+  background: #5db1a2;
+  border-radius: 8px;
+  width: 350px;
+  height: 76px;
+  position: absolute;
+  left: 30px;
+  top: 112px;
+}
+.rectangle-7 {
+  background: #5db1a2;
+  border-radius: 8px;
+  width: 350px;
+  height: 76px;
+  position: absolute;
+  left: 30px;
+  top: 221px;
+}
+.rectangle-8 {
+  background: #5db1a2;
+  border-radius: 8px;
+  width: 350px;
+  height: 76px;
+  position: absolute;
+  left: 30px;
+  top: 330px;
+}
+.store2 {
+  color: #000000;
+  text-align: left;
+  font-family: "AoboshiOne-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 112px;
+  top: 127px;
+  width: 85px;
+  height: 23px;
+}
+.vector {
+  width: 2.64%;
+  height: 1.54%;
+  position: absolute;
+  right: 94.31%;
+  left: 3.06%;
+  bottom: 92.63%;
+  top: 5.83%;
+  overflow: visible;
+}
+.frame {
+  width: 46px;
+  height: 43px;
+  position: absolute;
+  left: 44px;
+  top: 238px;
+  overflow: visible;
+}
+.engine {
+  width: 42px;
+  height: 43px;
+  position: absolute;
+  left: 48px;
+  top: 347px;
+  overflow: visible;
+}
+.biblioteca {
+  color: #000000;
+  text-align: left;
+  font-family: "AoboshiOne-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 112px;
+  top: 238px;
+}
+.rain-engine {
+  color: #000000;
+  text-align: left;
+  font-family: "AoboshiOne-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 112px;
+  top: 345px;
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  border-radius: 3px;
+  width: 474px;
+  height: 189px;
+  position: absolute;
+  left: 428px;
+  top: 184px;
+}
+.rectangle-10 {
+  border-radius: 0px;
+  width: 453px;
+  height: 211px;
+  position: absolute;
+  left: 928px;
+  top: 162px;
+  overflow: visible;
+}
+.group-9 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-11 {
+  background: #d9d9d9;
+  border-radius: 8px;
+  width: 1212px;
+  height: 592px;
+  position: absolute;
+  left: 114px;
+  top: 478px;
+}
+.hotline-miami-1 {
+  border-radius: 4px;
+  width: 1212px;
+  height: 492.55px;
+  position: absolute;
+  left: 114px;
+  top: 478px;
+  object-fit: cover;
+}
+.r-19-99 {
+  color: #000000;
+  text-align: left;
+  font-family: "AoboshiOne-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  left: 786.15px;
+  top: 977.57px;
+  width: 346.72px;
+  height: 72.54px;
+}
+.rectangle-12 {
+  background: #5db1a2;
+  border-radius: 3px;
+  width: 437.96px;
+  height: 67.86px;
+  position: absolute;
+  left: 255.43px;
+  top: 988.1px;
+}
+.comprar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AoboshiOne-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 334px);
+  top: 988px;
+  width: 175px;
+  height: 50px;
+}
+.promo-es {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AoboshiOne-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  left: 773px;
+  top: 37px;
+  width: 257px;
+  height: 59px;
+}
+.apps-26814-13625693263060421-1 {
+  border-radius: 4px;
+  width: 474px;
+  height: 244px;
+  position: absolute;
+  left: 428px;
+  top: 162px;
+  object-fit: cover;
+}
+.ver-mais {
+  color: #000000;
+  text-align: left;
+  font-family: "AoboshiOne-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 850px;
+  top: 112px;
+  width: 103px;
+  height: 33px;
+}
+.not-cias-esports {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AoboshiOne-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 187px);
+  top: 1104px;
+}
+.gu-fqk-wlr-ivodea-1-su-20-f-c-or-nzeyx-5-cb-9-1 {
+  border-radius: 4px;
+  width: 457px;
+  height: 243px;
+  position: absolute;
+  left: 927px;
+  top: 163px;
+  object-fit: cover;
+}
+.image-1 {
+  border-radius: 4px;
+  width: 615px;
+  height: 335px;
+  position: absolute;
+  left: 720px;
+  top: 1596px;
+  object-fit: cover;
+}
+.image-2 {
+  border-radius: 4px;
+  width: 615px;
+  height: 324px;
+  position: absolute;
+  left: 720px;
+  top: 1227px;
+  object-fit: cover;
+}
+.image-3 {
+  border-radius: 4px;
+  width: 605px;
+  height: 704px;
+  position: absolute;
+  left: 71px;
+  top: 1227px;
+  object-fit: cover;
+}
