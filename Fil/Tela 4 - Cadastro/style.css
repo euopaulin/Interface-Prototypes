@@ -1,0 +1,222 @@
+.tela-4,
+.tela-4 * {
+  box-sizing: border-box;
+}
+.tela-4 {
+  height: 960px;
+  position: relative;
+}
+.tela-3 {
+  width: 1440px;
+  height: 960px;
+  position: static;
+}
+.tela-2 {
+  width: 1440px;
+  height: 960px;
+  position: static;
+}
+.tela-1 {
+  background: #121212;
+  width: 1440px;
+  height: 960px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.rectangle-1 {
+  border-radius: 0px;
+  width: 694px;
+  height: 763px;
+  position: absolute;
+  left: calc(50% - 347px);
+  top: 118px;
+  overflow: visible;
+}
+.login-ou-cadastrar-se {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 107px);
+  top: 167px;
+  width: 215px;
+  height: 95px;
+  -webkit-text-stroke: 1px #545454;
+}
+.rectangle-6 {
+  background: #9df8f8;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #545454;
+  border-width: 2px;
+  width: 387px;
+  height: 44px;
+  position: absolute;
+  left: 527px;
+  top: 303px;
+}
+.rectangle-11 {
+  background: #9df8f8;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #545454;
+  border-width: 2px;
+  width: 387px;
+  height: 44px;
+  position: absolute;
+  left: 526px;
+  top: 566px;
+}
+.rectangle-7 {
+  background: #9df8f8;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #545454;
+  border-width: 2px;
+  width: 387px;
+  height: 44px;
+  position: absolute;
+  left: 527px;
+  top: 372px;
+}
+.rectangle-12 {
+  background: #9df8f8;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #545454;
+  border-width: 2px;
+  width: 387px;
+  height: 44px;
+  position: absolute;
+  left: 527px;
+  top: 635px;
+}
+.rectangle-13 {
+  background: #9df8f8;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #545454;
+  border-width: 2px;
+  width: 387px;
+  height: 44px;
+  position: absolute;
+  left: 526px;
+  top: 699px;
+}
+.nome-de-usuario {
+  color: #000000;
+  text-align: left;
+  font-family: "BalooBhaijaan2-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 547px;
+  top: 309px;
+  width: 148px;
+  height: 27px;
+}
+.nome-de-usuario2 {
+  color: #000000;
+  text-align: left;
+  font-family: "BalooBhaijaan2-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 547px;
+  top: 574px;
+  width: 148px;
+  height: 27px;
+}
+.senha {
+  color: #000000;
+  text-align: left;
+  font-family: "BalooBhaijaan2-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 547px;
+  top: 379px;
+  width: 157px;
+  height: 27px;
+}
+.senha2 {
+  color: #000000;
+  text-align: left;
+  font-family: "BalooBhaijaan2-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 547px;
+  top: 642px;
+  width: 157px;
+  height: 27px;
+}
+.email {
+  color: #000000;
+  text-align: left;
+  font-family: "BalooBhaijaan2-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 547px;
+  top: 707px;
+  width: 157px;
+  height: 27px;
+}
+.rectangle-10 {
+  background: #89f887;
+  border-radius: 8px;
+  width: 175px;
+  height: 44px;
+  position: absolute;
+  left: 633px;
+  top: 449px;
+}
+.rectangle-14 {
+  background: #89f887;
+  border-radius: 8px;
+  width: 175px;
+  height: 44px;
+  position: absolute;
+  left: 633px;
+  top: 768px;
+}
+.entrar {
+  color: #000000;
+  text-align: left;
+  font-family: "BalooBhaijaan-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 29px);
+  top: 457px;
+  width: 60px;
+  height: 27px;
+}
+.criar {
+  color: #000000;
+  text-align: left;
+  font-family: "BalooBhaijaan-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 24px);
+  top: 776px;
+  width: 49px;
+  height: 27px;
+}
+.criar-conta {
+  color: #000000;
+  text-align: center;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 671px;
+  top: 522px;
+}

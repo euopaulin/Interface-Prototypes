@@ -1,0 +1,296 @@
+.tela-2,
+.tela-2 * {
+  box-sizing: border-box;
+}
+.tela-2 {
+  height: 960px;
+  position: relative;
+}
+.tela-22 {
+  width: 1440px;
+  height: 960px;
+  position: static;
+}
+.tela-1 {
+  background: #121212;
+  width: 1440px;
+  height: 960px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.5) 0%,
+    rgba(0, 240, 255, 0.5) 100%
+  );
+  border-radius: 15px;
+  width: 1063px;
+  height: 673px;
+  position: absolute;
+  left: calc(50% - 531px);
+  top: 193px;
+}
+.rectangle-3 {
+  background: rgba(56, 56, 56, 0.6);
+  border-radius: 8px;
+  width: 441px;
+  height: 413px;
+  position: absolute;
+  left: 769px;
+  top: 310px;
+}
+.exerc-cios-e-acompanhamento {
+  text-align: center;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -134px);
+  top: 580px;
+  width: 272px;
+  height: 49px;
+}
+.exerc-cios-e-acompanhamento-span {
+  color: #ffffff;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.exerc-cios-e-acompanhamento-span2 {
+  color: #00f0ff;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.vidas-ilimitadas {
+  text-align: center;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -93px);
+  top: 512px;
+  width: 353px;
+  height: 41px;
+}
+.vidas-ilimitadas-span {
+  color: #ffffff;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.vidas-ilimitadas-span2 {
+  color: #00f0ff;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.acesso-completo-a-toda-a-hist-ria-da-filosofia {
+  text-align: center;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -81px);
+  top: 395px;
+  width: 378px;
+  height: 90px;
+}
+.acesso-completo-a-toda-a-hist-ria-da-filosofia-span {
+  color: #ffffff;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.acesso-completo-a-toda-a-hist-ria-da-filosofia-span2 {
+  color: #00f0ff;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.acesso-completo-a-toda-a-hist-ria-da-filosofia-span3 {
+  color: #ffffff;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.rectangle-2 {
+  background: rgba(56, 56, 56, 0.6);
+  border-radius: 8px;
+  width: 441px;
+  height: 304px;
+  position: absolute;
+  left: 239px;
+  top: 310px;
+}
+.limite-de-cinco-vidas-por-dia {
+  text-align: center;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 437px);
+  top: 475px;
+  width: 353px;
+  height: 37px;
+}
+.limite-de-cinco-vidas-por-dia-span {
+  color: #ffffff;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.limite-de-cinco-vidas-por-dia-span2 {
+  color: #00f0ff;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.limite-de-cinco-vidas-por-dia-span3 {
+  color: #ffffff;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.limite-de-cinco-vidas-por-dia-span4 {
+  color: #00f0ff;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.introdu-o-a-fil {
+  text-align: center;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 386px);
+  top: 395px;
+  width: 251px;
+  height: 49px;
+}
+.introdu-o-a-fil-span {
+  color: #ffffff;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.introdu-o-a-fil-span2 {
+  color: #00f0ff;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.introdu-o-a-fil-span3 {
+  color: #ffffff;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.vers-o-gratuita {
+  color: #111111;
+  text-align: center;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 409px);
+  top: 326px;
+  width: 298px;
+  height: 64px;
+}
+.vers-o-premium {
+  color: #111111;
+  text-align: left;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -116px);
+  top: 326px;
+  width: 307px;
+  height: 53px;
+}
+.qual-vers-o-escolher {
+  color: #ffffff;
+  text-align: left;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 205px);
+  top: 212px;
+  width: 411px;
+  height: 57px;
+}
+.logo {
+  position: absolute;
+  inset: 0;
+}
+.vector {
+  width: 2.57%;
+  height: 3.33%;
+  position: absolute;
+  right: 40.07%;
+  left: 57.36%;
+  bottom: 84.58%;
+  top: 12.08%;
+  overflow: visible;
+}
+.cosmos-da-fil {
+  color: #00ffff;
+  text-align: left;
+  font-family: "Audiowide-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 142px);
+  top: 112px;
+  width: 248px;
+  height: 41px;
+  -webkit-text-stroke: 2px #545454;
+}
+.rectangle-4 {
+  background: #89f887;
+  border-radius: 8px;
+  width: 388px;
+  height: 72px;
+  position: absolute;
+  left: 263px;
+  top: 744px;
+}
+.rectangle-5 {
+  border-radius: 0px;
+  width: 388px;
+  height: 72px;
+  position: absolute;
+  left: 796px;
+  top: 744px;
+  overflow: visible;
+}
+.assinar-premium {
+  color: #000000;
+  text-align: center;
+  font-family: "Audiowide-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 873px;
+  top: 764px;
+  width: 234px;
+}
+.continuar-com-gratuito {
+  color: #000000;
+  text-align: center;
+  font-family: "Audiowide-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 422px);
+  top: 764px;
+  width: 318px;
+}

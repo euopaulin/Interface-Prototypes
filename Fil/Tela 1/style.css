@@ -1,0 +1,74 @@
+.tela-1,
+.tela-1 * {
+  box-sizing: border-box;
+}
+.tela-1 {
+  height: 960px;
+  position: relative;
+}
+.tela-12 {
+  background: #ffffff;
+  width: 1440px;
+  height: 960px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.platao-1 {
+  width: 1470px;
+  height: 997px;
+  position: absolute;
+  left: -2px;
+  top: -23px;
+  filter: blur(2px);
+  object-fit: cover;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(205, 240, 252, 0.7) 0%,
+    rgba(17, 165, 211, 0.7) 100%
+  );
+  border-radius: 15px;
+  width: 877px;
+  height: 342px;
+  position: absolute;
+  left: calc(50% - 439px);
+  top: 235px;
+}
+.o-mais-alto-grau-do-pensamento {
+  color: #111111;
+  text-align: center;
+  font-family: "Audiowide-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 344px);
+  top: 378px;
+  width: 687px;
+}
+.vector {
+  width: 5.62%;
+  height: 7.5%;
+  position: absolute;
+  right: 21.25%;
+  left: 73.12%;
+  bottom: 62.71%;
+  top: 29.79%;
+  overflow: visible;
+}
+.cosmos-da-fil {
+  color: #00ffff;
+  text-align: left;
+  font-family: "Audiowide-Regular", sans-serif;
+  font-size: 96px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 402px);
+  top: 263px;
+  width: 729px;
+  height: 106px;
+  -webkit-text-stroke: 2px #545454;
+}

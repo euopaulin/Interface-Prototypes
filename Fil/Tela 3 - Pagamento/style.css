@@ -1,0 +1,204 @@
+.tela-3,
+.tela-3 * {
+  box-sizing: border-box;
+}
+.tela-3 {
+  height: 960px;
+  position: relative;
+}
+.tela-32 {
+  width: 1440px;
+  height: 960px;
+  position: static;
+}
+.tela-2 {
+  width: 1440px;
+  height: 960px;
+  position: static;
+}
+.tela-1 {
+  background: #121212;
+  width: 1440px;
+  height: 960px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.rectangle-1 {
+  border-radius: 0px;
+  width: 694px;
+  height: 719px;
+  position: absolute;
+  left: calc(50% - 347px);
+  top: 120px;
+  overflow: visible;
+}
+.forma-de-pagamento {
+  color: #111111;
+  text-align: left;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 174px);
+  top: 229px;
+  width: 348px;
+  height: 53px;
+}
+.assinar-premium {
+  color: #ffffff;
+  text-align: left;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 156px);
+  top: 144px;
+  width: 311px;
+  height: 53px;
+}
+.png-transparent-logo-mastercard-product-font-mastercard-text-orange-logo-removebg-preview-1 {
+  width: 100px;
+  height: 50px;
+  position: absolute;
+  left: 729px;
+  top: 299px;
+  object-fit: cover;
+}
+.png-transparent-visa-logo-credit-card-debit-card-mastercard-logo-visa-go-blue-text-trademark-removebg-preview-1 {
+  width: 89px;
+  height: 56px;
+  position: absolute;
+  left: 622px;
+  top: 299px;
+  object-fit: cover;
+}
+.rectangle-6 {
+  background: #9df8f8;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #545454;
+  border-width: 2px;
+  width: 387px;
+  height: 44px;
+  position: absolute;
+  left: 526px;
+  top: 372px;
+}
+.rectangle-7 {
+  background: #9df8f8;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #545454;
+  border-width: 2px;
+  width: 387px;
+  height: 44px;
+  position: absolute;
+  left: 526px;
+  top: 436px;
+}
+.rectangle-8 {
+  background: #9df8f8;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #545454;
+  border-width: 2px;
+  width: 387px;
+  height: 44px;
+  position: absolute;
+  left: 526px;
+  top: 500px;
+}
+.rectangle-9 {
+  background: #9df8f8;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #545454;
+  border-width: 2px;
+  width: 387px;
+  height: 44px;
+  position: absolute;
+  left: 526px;
+  top: 564px;
+}
+.nome-no-cart-o {
+  color: #000000;
+  text-align: left;
+  font-family: "BalooBhaijaan2-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 546px;
+  top: 378px;
+  width: 141px;
+  height: 27px;
+}
+.numero-do-cart-o {
+  color: #000000;
+  text-align: left;
+  font-family: "BalooBhaijaan2-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 546px;
+  top: 444px;
+  width: 157px;
+  height: 27px;
+}
+.validade-do-cart-o {
+  color: #000000;
+  text-align: left;
+  font-family: "BalooBhaijaan2-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 546px;
+  top: 508px;
+  width: 165px;
+  height: 27px;
+}
+.c-digo-cart-o {
+  color: #000000;
+  text-align: left;
+  font-family: "BalooBhaijaan2-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 546px;
+  top: 572px;
+  width: 165px;
+  height: 27px;
+}
+.r-9-90-por-m-s {
+  color: #ffffff;
+  text-align: left;
+  font-family: "BalooBhaijaan-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 627px;
+  top: 628px;
+}
+.rectangle-10 {
+  background: #89f887;
+  border-radius: 8px;
+  width: 175px;
+  height: 44px;
+  position: absolute;
+  left: 632px;
+  top: 684px;
+}
+.assinar {
+  color: #000000;
+  text-align: left;
+  font-family: "BalooBhaijaan-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 683px;
+  top: 692px;
+  width: 74px;
+  height: 27px;
+}

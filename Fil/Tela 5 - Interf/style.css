@@ -1,0 +1,236 @@
+.tela-5,
+.tela-5 * {
+  box-sizing: border-box;
+}
+.tela-5 {
+  height: 4404px;
+  position: relative;
+}
+.tela-4 {
+  width: 1440px;
+  height: 4404px;
+  position: static;
+}
+.tela-3 {
+  width: 1440px;
+  height: 4404px;
+  position: static;
+}
+.tela-2 {
+  width: 1440px;
+  height: 4404px;
+  position: static;
+}
+.tela-1 {
+  background: #121212;
+  width: 1440px;
+  height: 4404px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.logo {
+  position: absolute;
+  inset: 0;
+}
+.hd-wallpaper-tanri-sanati-like-love-melek-omg-philosophy-sanat-wow-1 {
+  width: 1440px;
+  height: 2198px;
+  position: absolute;
+  left: 0px;
+  top: 2206px;
+  filter: blur(2px);
+  object-fit: cover;
+}
+.desktop-wallpaper-philosophical-philosophical-philosophy-phone-thumbnail-1 {
+  width: 1440px;
+  height: 2206px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  filter: blur(2px);
+  object-fit: cover;
+}
+.cosmos-da-fil {
+  color: #00ffff;
+  text-align: left;
+  font-family: "Audiowide-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 630px);
+  top: 57px;
+  width: 248px;
+  height: 41px;
+  -webkit-text-stroke: 2px #545454;
+}
+.filosofia-antiga-e-pr-socratica {
+  color: #ffffff;
+  text-align: left;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 348px);
+  top: 153px;
+  width: 696px;
+  height: 64px;
+}
+.filosofia-medieval {
+  color: #ffffff;
+  text-align: left;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 201px);
+  top: 1206px;
+  width: 401px;
+  height: 64px;
+}
+.filosofia-moderna {
+  color: #ffffff;
+  text-align: left;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 201px);
+  top: 2269px;
+  width: 401px;
+  height: 64px;
+}
+.filosofia-moderna2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 212px);
+  top: 3340px;
+  width: 401px;
+  height: 64px;
+}
+.rectangle-11 {
+  border-radius: 8px;
+  width: 990px;
+  height: 757px;
+  position: absolute;
+  left: calc(50% - 495px);
+  top: 254px;
+  object-fit: cover;
+}
+.rectangle-13 {
+  border-radius: 8px;
+  width: 990px;
+  height: 757px;
+  position: absolute;
+  left: calc(50% - 495px);
+  top: 1307px;
+  object-fit: cover;
+}
+.rectangle-15 {
+  border-radius: 8px;
+  width: 990px;
+  height: 757px;
+  position: absolute;
+  left: calc(50% - 495px);
+  top: 2370px;
+  object-fit: cover;
+}
+.rectangle-17 {
+  border-radius: 8px;
+  width: 990px;
+  height: 757px;
+  position: absolute;
+  left: calc(50% - 495px);
+  top: 3451px;
+  object-fit: cover;
+}
+.rectangle-12 {
+  background: #9df8f8;
+  border-radius: 8px;
+  width: 197px;
+  height: 74px;
+  position: absolute;
+  left: 621px;
+  top: 1061px;
+}
+.rectangle-14 {
+  background: #9df8f8;
+  border-radius: 8px;
+  width: 197px;
+  height: 74px;
+  position: absolute;
+  left: 621px;
+  top: 2114px;
+}
+.rectangle-16 {
+  background: #9df8f8;
+  border-radius: 8px;
+  width: 197px;
+  height: 74px;
+  position: absolute;
+  left: 610px;
+  top: 3174px;
+}
+.rectangle-18 {
+  background: #9df8f8;
+  border-radius: 8px;
+  width: 197px;
+  height: 74px;
+  position: absolute;
+  left: 621px;
+  top: 4255px;
+}
+.acessar {
+  color: #000000;
+  text-align: left;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 88px);
+  top: 1061px;
+  width: 175px;
+  height: 64px;
+}
+.acessar2 {
+  color: #000000;
+  text-align: left;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 88px);
+  top: 2114px;
+  width: 175px;
+  height: 64px;
+}
+.acessar3 {
+  color: #000000;
+  text-align: left;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 99px);
+  top: 3174px;
+  width: 175px;
+  height: 64px;
+}
+.acessar4 {
+  color: #000000;
+  text-align: left;
+  font-family: "BalooBhai-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 88px);
+  top: 4255px;
+  width: 175px;
+  height: 64px;
+}
