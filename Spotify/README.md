@@ -1,0 +1,1 @@
+## Esse é um protótipo de interface onde eu tentei copiar a interface do Spotify.
