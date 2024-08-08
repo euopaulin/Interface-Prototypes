@@ -1,2 +1,2 @@
-## Protótipo de uma interface de uma loja de games!
-## Para fazer esse protótipo usei a interface da Epic Games como referência.
+##  LOJA ONLINE DE GAMES
+### Protótipo de site que simula uma loja virtual de jogos para PC e um portal de notícias de eSports, utilizado como referência a loja da Epic Games
